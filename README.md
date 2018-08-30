@@ -2,8 +2,9 @@
 Projeto para validação do módulo 1 - PHP
 
   /* LOJA VIRTUAL - PROJETO CURSO PHP */
-  
+    
   A ideia principal nesse projeto foi a criação de uma loja virtual com alguns controles e permissões de usuário.
+    
   O sistema web tem algumas funcionabilidades, como:
     - Cadastro de novos usuário
       |- Com validações em JS para não ter usuários com os mesmos nomes e/ou e-mails.

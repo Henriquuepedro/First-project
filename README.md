@@ -7,10 +7,8 @@ Projeto para validação do módulo 1 - PHP
     
   O sistema web tem algumas funcionabilidades, como:
   
-    - Cadastro de novos usuário
-    
-      |- Com validações em JS para não ter usuários com os mesmos nomes e/ou e-mails.
-      
+    - Cadastro de novos usuário    
+      |- Com validações em JS para não ter usuários com os mesmos nomes e/ou e-mails.      
     - Pagina para login
       Existe 2 tipos de contas, cliente e administrador:
         --Administrador

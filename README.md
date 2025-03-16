@@ -1,6 +1,6 @@
-#Project for Module 1 Validation - PHP
+## Project for Module 1 Validation of the PHP Course
 
-##ONLINE STORE - PHP COURSE PROJECT
+### ONLINE STORE - PHP COURSE PROJECT
 
 The main idea behind this project was to create an online store with some user controls and permissions.
 

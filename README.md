@@ -1,22 +1,21 @@
-# projeto_m1_php
-Projeto para validação do módulo 1 - PHP
+Project for Module 1 Validation - PHP
 
-  /* LOJA VIRTUAL - PROJETO CURSO PHP */
-    
-  A ideia principal nesse projeto foi a criação de uma loja virtual com alguns controles e permissões de usuário.
-    
-  O sistema web tem algumas funcionabilidades, como:
-  
-    - Cadastro de novos usuário    
-      |- Com validações em JS para não ter usuários com os mesmos nomes e/ou e-mails.      
-    - Pagina para login
-      Existe 2 tipos de contas, cliente e administrador:
-        --Administrador
-        |- Acesso à todos os pedidos de clientes
-        |- Inclusão/Alteração/Exclusão de produtos
-        |- Alteração de usuário como, Cliente -> Administrador & Administrador -> Cliente
-    - Listagem de todas as mercadorias
-    - Visualizar cada mercadoria com algumas informações a mais que não contêm na listagem
-    - Adição de mercadorias no carrinho de pedidos
-    - Listagem de pedidos de cada cliente indivisual
-    - Alteração de senha
+/* ONLINE STORE - PHP COURSE PROJECT */
+
+The main idea behind this project was to create an online store with some user controls and permissions.
+
+The web system has several functionalities, such as:
+
+    - Registration of new users
+      |- With JS validations to avoid users with the same names and/or emails.
+    - Login page
+    - There are 2 types of accounts: customer and administrator:
+        -- Administrator
+        |- Access to all customer orders
+        |- Add/Update/Delete products
+        |- Change user role, such as Customer -> Administrator & Administrator -> Customer
+    - List of all products
+    - View each product with additional information not present in the listing
+    - Add products to the shopping cart
+    - Listing of each customer's individual orders
+    - Change password
